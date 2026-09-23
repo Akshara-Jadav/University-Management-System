@@ -205,28 +205,6 @@ This project demonstrates several important Python concepts:
 
 ---
 
-## 💾 Data Storage
-
-The application currently uses **Streamlit session state** to store data while the application is running.
-
-> ⚠️ Data is temporary and is not stored permanently in a database. Data may be lost when the application session is restarted or refreshed depending on the session state.
-
----
-
-## 🔮 Future Enhancements
-
-The project can be further improved by adding:
-
-* 🔐 User authentication and login
-* 🗄️ Database integration using MySQL or SQLite
-* ✏️ Edit and delete student/teacher records
-* 🔍 Search and filter functionality
-* 📊 University statistics and dashboards
-* 📱 Improved responsive UI
-* 📤 Export student and teacher records to CSV/Excel
-* ☁️ Deployment using Streamlit Community Cloud
-
----
 
 ## 🎯 Learning Objective
 
